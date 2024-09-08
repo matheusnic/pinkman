@@ -1,4 +1,4 @@
-## Pinkmovies: Uma Busca de Filmes Bem Legal, Cara!
+## Pinkmovies: Uma Busca de Filmes Bem Legal, Cara! - Imersão Dev com Google Gemini
 
 **O que ele faz:**
 
