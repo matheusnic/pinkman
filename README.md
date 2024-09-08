@@ -31,7 +31,9 @@ Fica à vontade pra fazer um fork desse projeto e adicionar suas próprias ideia
 * **Informal:** O texto usa uma linguagem bem informal, com gírias e expressões comuns entre jovens, para criar uma vibe mais descontraída e divertida.
 * **Clareza:** As explicações são simples e diretas, evitando termos técnicos que possam confundir o usuário.
 * **Convite à participação:** O texto incentiva a participação de outros desenvolvedores, mostrando que o projeto está aberto a colaborações.
-* **Adaptado à cultura brasileira:** A linguagem e as referências foram adaptadas para o público brasileiro, utilizando expressões e gírias comuns.
+* **Em breve adaptado à cultura brasileira:** A linguagem e as referências serão adaptadas para o público brasileiro, utilizando expressões e gírias comuns.
+* **Biblioteca de filmes:** O acervo conta com 10 filmes: Superbad/Grande Lebowski/Napoleon Dynamite/dentre outros filmes com tema "stoner
+movies".
 
 **Sugestões:**
 
